@@ -1,3 +1,5 @@
 first line in git file
 second line of git file
 third line of git file
+fourth line in editor
+fith line after restore
