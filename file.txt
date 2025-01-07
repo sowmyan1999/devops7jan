@@ -1,1 +1,2 @@
 first line in git file
+second line of git file
